@@ -1,5 +1,4 @@
-# Komunitas Cardano Indonesia - tempat dimana kita belajar
-# Building 🇮🇩 Indonesian Cardano Community
+# Komunitas Cardano Indonesia - tempat dimana kita belajar • Building 🇮🇩 Indonesian Cardano Community
 
 ![Cardano Community Banner](https://github.com/cardano-indonesia/.github/blob/main/assets/cardanoCommunityBanner.jpeg)
 
