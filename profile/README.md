@@ -1,7 +1,7 @@
 ![Cardano Community Banner](https://github.com/cardano-indonesia/.github/blob/main/assets/cardanoCommunityBanner.jpeg)
 
 ## Hi there Cardano Community 👋
-###This is 🇮🇩 Cardano Indonesia GitHub Organization 
+### This is 🇮🇩 Cardano Indonesia GitHub Organization 
 ### Komunitas Cardano Indonesia; tempat dimana kita belajar • Building Indonesian Cardano Community
 
 ## Link
