@@ -1,6 +1,6 @@
 ## Hi there Cardano Community 👋
 
-This is Cardano Indonesia GitHub 🇮🇩
+This is 🇮🇩 Cardano Indonesia GitHub Organization 
 
 ## Link
 
