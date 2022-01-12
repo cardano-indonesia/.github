@@ -4,14 +4,14 @@ This is Cardano Indonesia GitHub 🇮🇩
 
 ## Link
 
-[Forum Cardano Indonesia](https://forum.cardano.org/c/bahasa-indonesia/)
-[Cardano Indonesia (Discord)](https://discord.gg/KnXFJftmfn)
-[Cardano Indonesia (Telegram)](https://t.me/Cardano_Indonesia)
-[Cardano Indonesia (Twitter)](https://twitter.com/Cardano_ID)
-[Cardano Indonesia (Instagram)](https://www.instagram.com/cardanoindonesia/)
-[Cardano Indonesia (GitHub)](https://github.com/cardano-indonesia)
-[Cardano Indonesia (YouTube)](https://www.youtube.com/channel/UCskq7Po4Hkyvlv7dAcFuY8g)
-[Cardano Hub Jakarta (Meetup)](https://www.meetup.com/Cardano-Blockchain-Jakarta/)
+- [Forum Cardano Indonesia](https://forum.cardano.org/c/bahasa-indonesia/)
+- [Cardano Indonesia (Discord)](https://discord.gg/KnXFJftmfn)
+- [Cardano Indonesia (Telegram)](https://t.me/Cardano_Indonesia)
+- [Cardano Indonesia (Twitter)](https://twitter.com/Cardano_ID)
+- [Cardano Indonesia (Instagram)](https://www.instagram.com/cardanoindonesia/)
+- [Cardano Indonesia (GitHub)](https://github.com/cardano-indonesia)
+- [Cardano Indonesia (YouTube)](https://www.youtube.com/channel/UCskq7Po4Hkyvlv7dAcFuY8g)
+- [Cardano Hub Jakarta (Meetup)](https://www.meetup.com/Cardano-Blockchain-Jakarta/)
 
 <!--
 
