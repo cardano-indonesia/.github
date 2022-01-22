@@ -2,6 +2,12 @@
 
 ![Cardano Community Banner](https://github.com/cardano-indonesia/.github/blob/main/assets/cardanoCommunityBanner.jpeg)
 
+## Eastern Hemisphere Town Hall - Indonesia
+
+(https://github.com/cardano-indonesia/.github/blob/main/assets/easternTownHall.png)
+
+We are part of Eastern Hemisphere Town Hall, that represents Indonesia in the Eastern Hemisphere Cardano Communities. And actively contribute to the Project Catalyst (Cardano Governance)
+
 ## Link
 
 - [Forum Cardano Indonesia](https://forum.cardano.org/c/bahasa-indonesia/)
