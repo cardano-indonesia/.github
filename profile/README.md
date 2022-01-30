@@ -12,6 +12,7 @@
 - [Cardano Indonesia (GitHub)](https://github.com/cardano-indonesia)
 - [Cardano Indonesia (YouTube)](https://www.youtube.com/channel/UCskq7Po4Hkyvlv7dAcFuY8g)
 - [Cardano Hub Jakarta (Meetup)](https://www.meetup.com/Cardano-Blockchain-Jakarta/)
+- [Cardano Indonesia Linktree](https://linktr.ee/CardanoIndonesia)
 
 ## Eastern Hemisphere Town Hall - Indonesia
 
@@ -23,3 +24,4 @@ We are part of Eastern Hemisphere Town Hall. Eastern Town Hall is helping commun
 
 - [Eastern Town Hall Website](https://easterntownhall.com/)
 - [Eastern Town Hall Discord](https://discord.gg/2samgExhzJ)
+- [Eastern Town Hall Linktree](https://linktr.ee/EasternTownHall)
