@@ -2,6 +2,22 @@
 
 ![Cardano Community Banner](https://github.com/cardano-indonesia/.github/blob/main/assets/twitterBannerCardanoIndonesia.jpg)
 
+🇮🇩  Kami adalah sekelompok orang dengan berbagai macam latar belakang dengan ketertarikan yang sama di Cardano.
+Kami bergerak untuk:
+- mengenalkan,
+- mengedukasi,
+- mendiskusikan dan,
+- melakukan berbagai macam proyek di Cardano,
+khususnya untuk orang-orang Indonesia dan untuk negara Indonesia.
+
+🇺🇸  We are a group of people with varying backgrounds with a unified interest in Cardano. 
+We set to:
+- introduce, 
+- educate, 
+- discuss and,
+- do projects in Cardano, 
+specifically to Indonesians and for Indonesia.
+
 ### Links
 
 - [Forum Cardano Indonesia](https://forum.cardano.org/c/bahasa-indonesia/)
