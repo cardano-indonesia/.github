@@ -36,7 +36,7 @@ We are part of Eastern Hemisphere Town Hall. Eastern Town Hall is helping commun
 
 ### Links
 
-- [Eastern Town Hall Website](https://easterntownhall.com/)
+- [Eastern Town Hall Website (Indonesia)](https://easterntownhall.com/id/)
 - [Eastern Town Hall Global Discord](https://discord.gg/2samgExhzJ)
 - [Eastern Town Hall Indonesia Discord](https://discord.gg/KnXFJftmfn)
 - [Eastern Town Hall Indonesia Telegram](https://t.me/EHTIndonesia)
