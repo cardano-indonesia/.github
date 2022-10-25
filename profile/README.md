@@ -30,7 +30,7 @@ We set to:
 
 ## Eastern Hemisphere Town Hall - Indonesia
 
-![Eastern Town Hall Banner](https://github.com/cardano-indonesia/.github/blob/main/assets/easternTownHall.jpg)
+![Eastern Town Hall Banner](https://github.com/cardano-indonesia/.github/blob/main/assets/easternTownHall.png)
 
 We are part of Eastern Hemisphere Town Hall. Eastern Town Hall is helping community members from a wide variety of countries and languages in the eastern timezones. And actively contribute to the Project Catalyst (Cardano Governance).
 
@@ -44,7 +44,7 @@ We are part of Eastern Hemisphere Town Hall. Eastern Town Hall is helping commun
 
 ## Gimbalabs Indonesia
 
-![Gimbalabs Indonesia Logo](https://github.com/cardano-indonesia/.github/blob/main/assets/gimbalabsIndonesiaLogoWithText.png)
+![Gimbalabs Indonesia Logo](https://github.com/cardano-indonesia/.github/blob/main/assets/gimbalabsIndonesiaLogoWithText.jgp)
 
 Gimbalabs Indonesia is an extension from Gimbalabs for Indonesian developers. It's a place for local Cardano developer from Indonesia to learn, share and collaborate together to build project on Cardano blockchain.
 
