@@ -30,7 +30,7 @@ We set to:
 
 ## Eastern Hemisphere Town Hall - Indonesia
 
-![Eastern Town Hall Banner](https://github.com/cardano-indonesia/.github/blob/main/assets/easternTownHall.png)
+![Eastern Town Hall Banner](https://github.com/cardano-indonesia/.github/blob/main/assets/easternTownHall.jpg)
 
 We are part of Eastern Hemisphere Town Hall. Eastern Town Hall is helping community members from a wide variety of countries and languages in the eastern timezones. And actively contribute to the Project Catalyst (Cardano Governance).
 
