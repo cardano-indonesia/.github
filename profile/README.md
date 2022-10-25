@@ -20,7 +20,7 @@ We set to:
 
 - [Forum Cardano Indonesia](https://forum.cardano.org/c/bahasa-indonesia/)
 - [Cardano Indonesia (Discord)](https://discord.gg/KnXFJftmfn)
-- [Cardano Indonesia (Telegram)](https://t.me/Cardano_Indonesia)
+- [Cardano Indonesia (Telegram)](https://t.me/CardanoIndonesiaOfficial)
 - [Cardano Indonesia (Twitter)](https://twitter.com/Cardano_ID)
 - [Cardano Indonesia (Instagram)](https://www.instagram.com/cardanoindonesia/)
 - [Cardano Indonesia (GitHub)](https://github.com/cardano-indonesia)
@@ -41,3 +41,14 @@ We are part of Eastern Hemisphere Town Hall. Eastern Town Hall is helping commun
 - [Eastern Town Hall Indonesia Discord](https://discord.gg/KnXFJftmfn)
 - [Eastern Town Hall Indonesia Telegram](https://t.me/EHTIndonesia)
 - [Eastern Town Hall Linktree](https://linktr.ee/EasternTownHall)
+
+## Gimbalabs Indonesia
+
+![Gimbalabs Indonesia Logo](https://github.com/cardano-indonesia/.github/blob/main/assets/gimbalabsIndonesiaLogoWithText.png)
+
+Gimbalabs Indonesia is an extension from Gimbalabs for Indonesian developers. It's a place for local Cardano developer from Indonesia to learn, share and collaborate together to build project on Cardano blockchain.
+
+### Links
+
+- [Gimbalabs Website](https://gimbalabs.com/gimbalgrid)
+- [Gimbalabs Indonesia Telegram](https://t.me/gimbalabsindonesia)
