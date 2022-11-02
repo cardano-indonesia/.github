@@ -45,7 +45,7 @@ We are part of Eastern Hemisphere Town Hall. Eastern Town Hall is helping commun
 
 ## Eastern Catalyst School - Indonesia
 
-![Eastern Catalyst School Logo](https://github.com/cardano-indonesia/.github/blob/main/assets/easternCatalystSchool.jpg)
+![Eastern Catalyst School Logo](https://github.com/cardano-indonesia/.github/blob/main/assets/easternCatalystSchoolLogo.jpg)
 
 The Catalyst School, already established, is a place created to enhance the impact of Catalyst as a whole by improving the contribution of all its different players and roles. The Eastern Catalyst School will provide similar services as The Catalyst School, but in the Japanese, Vietnamese and Indonesian and steadily adding more local languages by reaching out to other communities where English is not the main communication instrument.
 
