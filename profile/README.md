@@ -26,6 +26,7 @@ We set to:
 - [Cardano Indonesia (GitHub)](https://github.com/cardano-indonesia)
 - [Cardano Indonesia (YouTube)](https://www.youtube.com/channel/UCskq7Po4Hkyvlv7dAcFuY8g)
 - [Cardano Hub Jakarta (Meetup)](https://www.meetup.com/Cardano-Blockchain-Jakarta/)
+- [Cardano Hub Surabaya (Meetup)](https://www.meetup.com/Cardano-Blockchain-Surabaya/)
 - [Cardano Indonesia Linktree](https://linktr.ee/CardanoIndonesia)
 
 ## Eastern Hemisphere Town Hall - Indonesia
@@ -41,6 +42,12 @@ We are part of Eastern Hemisphere Town Hall. Eastern Town Hall is helping commun
 - [Eastern Town Hall Indonesia Discord](https://discord.gg/KnXFJftmfn)
 - [Eastern Town Hall Indonesia Telegram](https://t.me/EHTIndonesia)
 - [Eastern Town Hall Linktree](https://linktr.ee/EasternTownHall)
+
+## Eastern Catalyst School - Indonesia
+
+The Catalyst School, already established, is a place created to enhance the impact of Catalyst as a whole by improving the contribution of all its different players and roles. The Eastern Catalyst School will provide similar services as The Catalyst School, but in the Japanese, Vietnamese and Indonesian and steadily adding more local languages by reaching out to other communities where English is not the main communication instrument.
+
+Our aim is to bring together the Eastern Hemisphere communities which have an interest in the process of learning about Catalyst constructively, be they, newcomers or veterans, so they can exchange knowledge and help each other in their own languages.
 
 ## Gimbalabs Indonesia
 
