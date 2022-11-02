@@ -45,7 +45,7 @@ We are part of Eastern Hemisphere Town Hall. Eastern Town Hall is helping commun
 
 ## Eastern Catalyst School - Indonesia
 
-![Eastern Catalyst School Logo](https://github.com/cardano-indonesia/.github/blob/main/assets/easternCatalystSchoolLogo.jpg)
+<img src="https://github.com/cardano-indonesia/.github/blob/main/assets/easternCatalystSchoolLogo.jpg" width="350" alt="Eastern Catalyst School Logo">
 
 The Catalyst School, already established, is a place created to enhance the impact of Catalyst as a whole by improving the contribution of all its different players and roles. The Eastern Catalyst School will provide similar services as The Catalyst School, but in the Japanese, Vietnamese and Indonesian and steadily adding more local languages by reaching out to other communities where English is not the main communication instrument.
 
@@ -53,7 +53,7 @@ Our aim is to bring together the Eastern Hemisphere communities which have an in
 
 ## Gimbalabs Indonesia
 
-<img src="https://github.com/cardano-indonesia/.github/blob/main/assets/gimbalabsIndonesiaLogoWithText.jpg" width="300" alt="Gimbalabs Indonesia Logo">
+<img src="https://github.com/cardano-indonesia/.github/blob/main/assets/gimbalabsIndonesiaLogoWithText.jpg" width="350" alt="Gimbalabs Indonesia Logo">
 
 Gimbalabs Indonesia is an extension from Gimbalabs for Indonesian developers. It's a place for local Cardano developer from Indonesia to learn, share and collaborate together to build project on Cardano blockchain.
 
