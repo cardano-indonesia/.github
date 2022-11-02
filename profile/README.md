@@ -51,6 +51,10 @@ The Catalyst School, already established, is a place created to enhance the impa
 
 Our aim is to bring together the Eastern Hemisphere communities which have an interest in the process of learning about Catalyst constructively, be they, newcomers or veterans, so they can exchange knowledge and help each other in their own languages.
 
+### Links
+
+- [Eastern Catalyst School Website](https://easterntownhall.com/school/intro/school-intro/)
+
 ## Gimbalabs Indonesia
 
 <img src="https://github.com/cardano-indonesia/.github/blob/main/assets/gimbalabsIndonesiaLogoWithText.jpg" width="350" alt="Gimbalabs Indonesia Logo">
